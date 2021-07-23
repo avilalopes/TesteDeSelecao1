@@ -1,0 +1,16 @@
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.exe
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.deps.json
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.runtimeconfig.json
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.runtimeconfig.dev.json
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.dll
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\ref\TesteDeSelecao1.dll
+D:\git\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.pdb
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.csprojAssemblyReference.cache
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.AssemblyInfoInputs.cache
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.AssemblyInfo.cs
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.csproj.CoreCompileInputs.cache
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.dll
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\ref\TesteDeSelecao1.dll
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.pdb
+D:\git\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.genruntimeconfig.cache
